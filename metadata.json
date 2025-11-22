@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Prompt Generator",
+  "description": "Upload an image or video, and this tool will leverage AI to generate a detailed and creative video prompt that captures the essence of the media, perfect for use with text-to-video generation models.",
+  "requestFramePermissions": []
+}
